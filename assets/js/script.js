@@ -6,7 +6,7 @@ new Typed('.typed-text', {
         'Modern Websites',
         'Laravel Applications',
         'WordPress Solutions',
-        'Node.js APIs'
+        'Node.js Applications'
     ],
 
     typeSpeed: 60,
