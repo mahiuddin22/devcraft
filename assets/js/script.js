@@ -79,3 +79,12 @@ setInterval(function () {
     document.getElementById("seconds").innerHTML = seconds;
 
 }, 1000);
+
+// Loader Hide
+
+window.addEventListener("load", function(){
+
+    document.getElementById("loader").style.opacity = "0";
+    document.getElementById("loader").style.visibility = "hidden";
+
+});
